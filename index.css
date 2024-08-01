@@ -1,0 +1,22 @@
+body{
+    margin:20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card{
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    background-color:lavender;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    color: black;
+    border-bottom: 5px solid violet;
+    
+}
+.my-pic{
+    width: 150px;
+    border-radius: 100px;
+    border: 2px solid lightcoral;
+}
